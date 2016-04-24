@@ -1,8 +1,0 @@
-.DS_Store
-assets
-node_modules
-views
-app.coffee
-app.production.coffee
-package.json
-readme.md
